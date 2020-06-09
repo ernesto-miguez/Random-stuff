@@ -1,5 +1,3 @@
-# https://www.youtube.com/watch?v=-8n91btt5d8 (min 1:07:48)
-
 import pygame
 import random
 import sys
